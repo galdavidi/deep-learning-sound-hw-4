@@ -1,0 +1,5 @@
+content/*Midi*
+content/*.zip
+content/__pycache__/
+converted/
+out/
