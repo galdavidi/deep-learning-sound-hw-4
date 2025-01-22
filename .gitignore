@@ -3,3 +3,5 @@ content/*.zip
 content/__pycache__/
 converted/
 out/
+.python-version
+.DS_Store
